@@ -78,5 +78,3 @@ The **Feature Importance** analysis revealed that `Actual_Energy(kwh)` is the st
 2. **Install Dependencies**
   ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
-3. **Run the Notebook
-Open Abnormal_Electricity_Usage_Detection.ipynb in Jupyter Notebook or VS Code and run all cells.
