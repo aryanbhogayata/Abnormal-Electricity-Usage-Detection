@@ -78,3 +78,16 @@ The **Feature Importance** analysis revealed that `Actual_Energy(kwh)` is the st
 2. **Install Dependencies**
   ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
+  ```
+3. **Run the Notebook**
+   Open Abnormal_Electricity_Usage_Detection.ipynb in Jupyter Notebook or VS Code and run all cells.
+
+🔮 Future Scope
+Deep Learning: Implementing LSTMs to detect time-series anomalies (e.g., sudden spikes at 3 AM).
+
+Real-Time Dashboard: Building a web interface for utility operators to view live alerts.
+
+Weather Integration: Incorporating real-time weather data to better distinguish between heatwaves and theft.
+
+📜 License
+This project is for educational purposes as part of the curriculum at Dr. Subhash University.
