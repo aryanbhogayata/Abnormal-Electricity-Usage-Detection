@@ -74,3 +74,9 @@ The **Feature Importance** analysis revealed that `Actual_Energy(kwh)` is the st
 1. **Clone the Repository**
    ```bash
    git clone [https://github.com/YourUsername/Abnormal-Electricity-Usage-Detection.git](https://github.com/YourUsername/Abnormal-Electricity-Usage-Detection.git)
+
+2. **Install Dependencies**
+  ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+3. **Run the Notebook
+Open Abnormal_Electricity_Usage_Detection.ipynb in Jupyter Notebook or VS Code and run all cells.
